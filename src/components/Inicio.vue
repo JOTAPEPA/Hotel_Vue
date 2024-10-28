@@ -35,7 +35,7 @@
         </div>
         <div class="fila2">
             <div class="habitacionesInicio" id="cardsRedireccion">
-                <img src="https://www.hotelbahiasantander.com/wp-content/uploads/sites/1938/nggallery/location//bahia_mobile_habitaciones_01_cabecera-copy.jpg"
+                <img src="https://cdn.forbes.com.mx/2021/12/hoteles-de-lujo-tres-e1639513889195.jpg"
                     alt="">
                 <div>
                     <p class="descripcionHabitacion">Nuestras habitaciones combinan lujo y confort, con amplios
